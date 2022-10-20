@@ -1,2 +1,2 @@
 # node-todo
-CRUD ToDo app built with Node and Mongo
+CRUD ToDo app built with Node, Mongo, and EJS
